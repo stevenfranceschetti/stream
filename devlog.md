@@ -1,8 +1,8 @@
 # Stream — Devlog
 
-## 2026-06-03
+Handcoding an interactive story to practice with Python 
 
-Handcoding an interactive story to practice with Python  
+## 2026-06-03 
 
 **Current issues:**
 - Spacing and indentation errors 
